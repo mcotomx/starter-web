@@ -5,4 +5,6 @@
 
 ## Intro
 
+##How to contribute
+
 ##Deployment
