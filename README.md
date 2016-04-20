@@ -8,6 +8,7 @@ The purpose is to show how git works and stuff.
 This is an example to show differente parts if the Git repository and various command using a web project.
 
 ##How to contribute
+Please fork this repository
 
 ##Deployment
 This is a simple web prohect, deplyment can be on any web server or even local file system.
