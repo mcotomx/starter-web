@@ -11,3 +11,6 @@ This is an example to show differente parts if the Git repository and various co
 
 ##Deployment
 This is a simple web prohect, deplyment can be on any web server or even local file system.
+
+### Copyright
+Git training
