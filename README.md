@@ -15,4 +15,4 @@ Please fork this repository
 This is a simple web prohect, deplyment can be on any web server or even local file system.
 
 ### Copyright
-Git training
+Git training. All rights reserved
