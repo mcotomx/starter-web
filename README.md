@@ -1,6 +1,7 @@
 # Starter Web Project
 This is a simple project on how to use git with Github
 Adding a line for rebasing example, then more chages from my feature branch 2
+Emergency fix for stash
 
 ## Purpose
 The purpose is to show how git works and stuff.
